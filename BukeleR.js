@@ -1,8 +1,8 @@
 const BukeleR= require("aoi.js")
 var fs = require('fs');
 const bot = new BukeleR.Bot({
-  token: "OTgzMzU2Mjk4NDAzOTM0MjQ4.GtEbQk.78BQfHeuGxZmOQ17BbIfb_jtt-rLH1jVamuRn8", //TOKEN BURAYA YAZIN
-  prefix: "!",    // PREFİXİNİ BURAYA YAZABİLİRSİN
+  token: "MTA1NDAyOTQxMjU0ODQ4NTE3Mw.Ge8-MO.pI32OQenHgJUVVEwdHxvlQJRtA3wiz7TeLRDLs", //TOKEN BURAYA YAZIN
+  prefix: "/",    // PREFİXİNİ BURAYA YAZABİLİRSİN
   fetchInvites: true
 })
 
